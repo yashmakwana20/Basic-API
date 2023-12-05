@@ -1,0 +1,8 @@
+H:\Yash\Basic API\aBSTRACTION\aBSTRACTION\bin\Debug\aBSTRACTION.exe.config
+H:\Yash\Basic API\aBSTRACTION\aBSTRACTION\bin\Debug\aBSTRACTION.exe
+H:\Yash\Basic API\aBSTRACTION\aBSTRACTION\bin\Debug\aBSTRACTION.pdb
+H:\Yash\Basic API\aBSTRACTION\aBSTRACTION\obj\Debug\aBSTRACTION.csproj.AssemblyReference.cache
+H:\Yash\Basic API\aBSTRACTION\aBSTRACTION\obj\Debug\aBSTRACTION.csproj.SuggestedBindingRedirects.cache
+H:\Yash\Basic API\aBSTRACTION\aBSTRACTION\obj\Debug\aBSTRACTION.csproj.CoreCompileInputs.cache
+H:\Yash\Basic API\aBSTRACTION\aBSTRACTION\obj\Debug\aBSTRACTION.exe
+H:\Yash\Basic API\aBSTRACTION\aBSTRACTION\obj\Debug\aBSTRACTION.pdb
